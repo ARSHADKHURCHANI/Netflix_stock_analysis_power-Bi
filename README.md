@@ -1,2 +1,1 @@
-# Netflix_sales_analysis_power-Bi
-a Power Bi project
+ A Power BI dashboard to predict Netflix stock.
